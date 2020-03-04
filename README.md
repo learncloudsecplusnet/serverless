@@ -15,7 +15,7 @@ $ npm install -g serverless
 
 Clone the repository:
 ```
-$ git clone git@github.com/celidor/serverless
+$ git clone https://github.com/learncloudsecplusnet/serverless.git
 ```
 
 Edit the profile line on serverless.yml to match the profile name of your AWS credentials, or remove the line altogether to use the default AWS profile.
